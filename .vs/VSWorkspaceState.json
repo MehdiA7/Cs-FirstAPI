@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyFirstAPI"
+    "\\MyFirstAPI",
+    "\\MyFirstAPI\\MyFirstAPI",
+    "\\MyFirstAPI\\MyFirstAPI\\Data"
   ],
-  "SelectedNode": "\\MyFirstAPI\\MyFirstAPI.sln",
+  "SelectedNode": "\\MyFirstAPI\\MyFirstAPI\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
